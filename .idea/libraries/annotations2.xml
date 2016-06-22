@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="annotations2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/CastCompanionLibrary/build/intermediates/annotations/release/annotations.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
